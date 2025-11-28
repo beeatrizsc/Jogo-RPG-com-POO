@@ -8,8 +8,8 @@ O projeto consiste em um **jogo RPG** utilizando Programação Orientada a Objet
 ## Tecnologias Utilizadas
 
 O projeto foi desenvolvido inteiramente na linguagem:
-* **C**
-* Requer um compilador C (como o **GCC**) para a compilação ou uma IDE para a linguagem (como o **Code::Blocks**).
+* **C++**
+* Requer um compilador C++ (como o **GCC**) para a compilação ou uma IDE para a linguagem (como o **Code::Blocks**).
 Recomendado o uso de uma IDE para maior facilidade na hora de compilar.
 
 ## Classes
